@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color:  #308080;
+    background-color:  teal;
     min-height: 100vh;
     transition: background-color 0.3s ease;
     text-align: center;
@@ -42,7 +42,7 @@ body {
 }
 
 #black-btn {
-    background-color: #333;
+    background-color: black;
     color: white;
 }
 
@@ -97,7 +97,7 @@ body {
 }
 
 .highlight {
-    background-color: #308080;
+    background-color: teal;
     padding: 5px 10px;
     border-radius: 5px;
     font-weight: bold;
